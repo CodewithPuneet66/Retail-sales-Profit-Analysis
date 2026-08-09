@@ -1,0 +1,21 @@
+Q1 -> Which region generates the highest sales?
+
+Ans -> The West region generates the highest sales.
+	
+Q2 -> Which product Category is the most profitable?
+
+Ans -> Technology is the most profitable product category.
+
+Q3 -> Which product generates the highest revenue?
+
+Ans ->The Global Troy Executive Leather Low-Back Tilter generates the highest revenue.
+
+Q4 -> Which customer segment contributes the most profit?
+
+Ans -> The cooperate customer segment is the most profit.
+
+Q5 -> What is the monthly sales trend?
+
+Ans  -> Sales fluctuate throughout the year. October records the highest
+	monthly sales, while August records the lowest.
+ 
